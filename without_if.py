@@ -12,7 +12,7 @@ Explanation:
 
 '''
 import re
-
+print ("Please enter the postal code you want to validate")
 P=input()
 
 # using bool to validate 3 conditions
