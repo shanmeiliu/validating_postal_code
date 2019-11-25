@@ -1,3 +1,8 @@
+"""
+Author: Charmaine Liu
+Nov 24, 2019
+"""
+
 regex_integer_in_range = r"[1-9][0-9][0-9][0-9][0-9][0-9]"	# using regular expression to match 100000 to 999999
 
 regex_alternating_repetitive_digit_pair = r"(\d)(?=\d\1)"	#  REF  https://stackoverflow.com/questions/49325509/how-to-find-alternating-repetitive-digit-pair
