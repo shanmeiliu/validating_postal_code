@@ -1,6 +1,6 @@
 # validating_postal_code
-using "python without.py" 
-## some testing results
+using "python without_if.py" 
+## some testing results for without_if.py in Python 3.7 
 
 3456789
 False
